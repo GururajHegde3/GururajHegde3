@@ -19,5 +19,5 @@ Passionate full-stack developer building elegant web applications and solving co
 
 ## Connect
 - Portfolio: https://guruportfolio03.vercel.app/
-- LinkedIn: linkedin.com/in/gururaj-hegde-78b267251
+- LinkedIn: https://linkedin.com/in/gururaj-hegde-78b267251/
 - Email: rguru7825@gmail.com
